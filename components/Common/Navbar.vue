@@ -2,7 +2,7 @@
   <nav ref="navbar" class="navbar navbar-expand-lg change" :class="theme === 'light' ? 'light' : ''">
     <div class="container">
       <NuxtLink to="/" class="logo">
-        <img ref="lr" style="width: 140px;" src="/img/Bandkandy LogoTransparency.png" alt="logo" />
+        <img ref="lr" style="width: 140px;" src="https://firebasestorage.googleapis.com/v0/b/amber2641.appspot.com/o/Bandkandy%20LogoTransparency.png?alt=media&token=1f7e9f56-d410-482a-a883-e3785241e16e" alt="logo" />
       </NuxtLink>
 
       <button class="navbar-toggler" type="button" @click="handleMobileDropdown" data-toggle="collapse"
