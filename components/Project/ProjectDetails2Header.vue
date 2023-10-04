@@ -1,6 +1,6 @@
 <template>
   <section
-    class="page-header proj-det bg-img parallaxie valign mt-60"
+    class="page-header proj-det bg-img parallaxie valign mt-0"
     style="background-color: #000"
     :style="`background-image: url(${projectHeaderData.projectHeaderImage}); background-position: center top; background-repeat: no-repeat; background-size: contain;`"
     data-overlay-dark="4"
