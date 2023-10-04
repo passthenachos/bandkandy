@@ -1,14 +1,14 @@
 <template>
   <CommonLoading />
   <Navbar />
-  <div class="wrapper">
+  <div class="wrapper" style="background-color: #000">
     <ProjectDetails2Header :projectHeaderData="ProjectDate" />
-    <ProjectIntroduction :projectIntroductionData="ProjectDate.intro" />
+   <!-- <ProjectIntroduction :projectIntroductionData="ProjectDate.intro" />
     <ProjectGallery :projectGalleryData="ProjectDate.gallery" />
     <ProjectDescription :projectDescriptionData="ProjectDate.description" />
     <ProjectVideo :projectVideoData="ProjectDate" />
     <NextProject />
-    <Footer />
+    <Footer /> -->
   </div>
 </template>
 

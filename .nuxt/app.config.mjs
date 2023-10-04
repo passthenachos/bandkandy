@@ -1,6 +1,6 @@
 
 import { updateAppConfig } from '#app'
-import { defuFn } from '/Users/mulch/Documents/bandkandy/node_modules/defu/dist/defu.mjs'
+import { defuFn } from '/Users/mulch/Documents/GitHub/bandkandy/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
